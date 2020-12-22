@@ -1,2 +1,2 @@
 # java-cucumber-template
-A template used for creating Java based cucumber automation projects
+A template designed for creating Java based cucumber automation projects
